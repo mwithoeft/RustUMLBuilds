@@ -1,0 +1,11 @@
+C:\Users\mp.withöft\RustUML\rust_uml\target\wasm32-unknown-unknown\release\deps\libbincode-a4975792507ca2ea.rlib: C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\lib.rs C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\config.rs C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\ser\mod.rs C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\error.rs C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\de\mod.rs C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\de\read.rs C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\internal.rs
+
+C:\Users\mp.withöft\RustUML\rust_uml\target\wasm32-unknown-unknown\release\deps\bincode-a4975792507ca2ea.d: C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\lib.rs C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\config.rs C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\ser\mod.rs C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\error.rs C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\de\mod.rs C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\de\read.rs C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\internal.rs
+
+C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\lib.rs:
+C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\config.rs:
+C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\ser\mod.rs:
+C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\error.rs:
+C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\de\mod.rs:
+C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\de\read.rs:
+C:\Users\mp.withöft\.cargo\registry\src\github.com-1ecc6299db9ec823\bincode-1.0.1\src\internal.rs:

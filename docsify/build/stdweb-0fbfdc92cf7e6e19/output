@@ -1,2 +1,0 @@
-cargo:rustc-cfg=rust_1_30_or_newer
-cargo:rustc-cfg=rust_nightly
